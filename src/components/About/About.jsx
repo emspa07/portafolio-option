@@ -22,7 +22,7 @@ const About = () => {
             
             <p>¿Listo para crear juntos soluciones impactantes? Conectémonos y marquemos la diferencia.</p>
 
-            <Button title="Ver CV"/>
+            <a href="https://drive.google.com/file/d/17z-pvkeyiA6-xTdPsL4h3uYMy6DJ0wAR/view?usp=sharing" target="_blank"><Button title="Ver CV"/></a>
             </AboutDescription>
       </AboutWrapper>
     )

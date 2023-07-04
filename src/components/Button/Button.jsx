@@ -5,8 +5,8 @@ const ButtonWrapper = styled.button`
     background-color: transparent;
     margin: 1rem;
     font-weight: bold;
-    font-size: .8rem;
-    padding: 1em;
+    font-size: 1rem;
+    padding: .8em 4em;
     cursor: pointer;
     transition: background 200ms ease-in, color 200ms ease-in;
     flex: display;
